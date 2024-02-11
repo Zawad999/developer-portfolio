@@ -1,0 +1,1 @@
+This repository contains files necessary for the portfolio I have created using HTML and CSS. The portfolio is a developer portfolio. It's also another project just to demonstrate my HTML and CSS skill.
